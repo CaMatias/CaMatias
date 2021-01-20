@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning Python, JavaScript and C#
-- 👯 I’m looking to collaborate on WEB
+- 🌱 I’m currently learning Python, JavaScript, NodeJS, ReactJS and C#
+- 👯 I’m looking to collaborate on Impact the world with technological solutions 🐱‍👤
 - 📫 How to reach me: https://www.linkedin.com/in/caiquemaa/
 - 😄 Pronouns: CaMatias o(*￣▽￣*)ブ
