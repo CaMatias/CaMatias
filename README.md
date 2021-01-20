@@ -7,5 +7,4 @@
 - 🌱 I’m currently learning Python, JavaScript and C#
 - 👯 I’m looking to collaborate on WEB
 - 📫 How to reach me: https://www.linkedin.com/in/caiquemaa/
-- 😄 Pronouns: CaMatias
--->
+- 😄 Pronouns: CaMatias o(*￣▽￣*)ブ
