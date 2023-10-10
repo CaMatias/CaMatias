@@ -18,4 +18,4 @@
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-## A sorte está lançada
+# A sorte está lançada
