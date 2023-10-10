@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
 
-![Caique GitHub stats](https://github-readme-stats.vercel.app/api?username=CaMatias&show_icons=true&theme=dark&count_private=true)
+![Caique Matias GitHub stats](https://github-readme-stats.vercel.app/api?username=CaMatias&theme=blue-green&show_icons=true)
 
 ## Tecnologias que eu uso no meu dia
 
